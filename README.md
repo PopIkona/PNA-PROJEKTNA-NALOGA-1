@@ -14,4 +14,5 @@ https://user-images.githubusercontent.com/129844304/236382002-3a155911-777e-4225
 https://user-images.githubusercontent.com/129844304/236382022-f9a412c6-3331-4e8c-a0e3-e456307f79d0.mp4
 ## KOMENTAR
 Vezje sva sestavila, da deluje, kot bi potrebovalo. Reset tipko sva povezala kar na RESET pin arduina in se tako izognila odvečni programski kodi.Imela sva težave z lcd-jem, vendar sva jih odpravila. Mislila sva da na lcd-ju imava že povezan upor, vendar ga nisva imela, zato je bila svetlost lcd-ja slabša. Povezala sva GND na LED2 pin preko upora in zaslon je bil svetlejši. Morala sva dodati tudi potenciometer, da lahko spreminjava svetlost. Z najinim projektom sva zelo zadovoljna. 
+## EASYSOFT
 
