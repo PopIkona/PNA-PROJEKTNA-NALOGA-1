@@ -10,5 +10,5 @@ Imamo 3 tipke A, B in C. Krmiljenje naj ugotavlja, katera tipka je bila pritisnj
 ## SLIKA VEZJA
 ![image](https://user-images.githubusercontent.com/129844304/236381422-ba41b0b4-bf4f-41b9-ab08-0e581bf26f69.png)
 ## VIDEOPOSNETEK DELOVANJA
-
+https://github.com/PopIkona/PNA-PROJEKTNA-NALOGA-1/blob/main/IMG_4188.mp4
 
