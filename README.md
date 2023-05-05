@@ -10,5 +10,7 @@ Imamo 3 tipke A, B in C. Krmiljenje naj ugotavlja, katera tipka je bila pritisnj
 ## SLIKA VEZJA
 ![image](https://user-images.githubusercontent.com/129844304/236381422-ba41b0b4-bf4f-41b9-ab08-0e581bf26f69.png)
 ## VIDEOPOSNETEK DELOVANJA
+https://user-images.githubusercontent.com/129844304/236382002-3a155911-777e-4225-80b9-69f30a6caf27.mp4
+https://user-images.githubusercontent.com/129844304/236382022-f9a412c6-3331-4e8c-a0e3-e456307f79d0.mp4
 
 
