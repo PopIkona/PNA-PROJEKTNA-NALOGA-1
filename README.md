@@ -19,4 +19,7 @@ Vezje sva sestavila, da deluje, kot bi potrebovalo. Reset tipko sva povezala kar
 ## ALPHA VEZALNA SHEMA
 ![image](https://user-images.githubusercontent.com/129844304/236384549-291a5616-5c78-48c8-acf4-ba6c0e44751e.png)
 ## ALPHA SLIKA VEZJA
+![IMG-4166 (1)](https://user-images.githubusercontent.com/129844304/236746030-3b4cf2d4-095b-4a58-938c-4628716b401f.jpg)
+## DELOVANJE VEZJA ALPHA
+
 
