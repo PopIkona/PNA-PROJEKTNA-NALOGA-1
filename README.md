@@ -23,3 +23,7 @@ Vezje sva sestavila, da deluje, kot bi potrebovalo. Reset tipko sva povezala kar
 ## DELOVANJE VEZJA ALPHA
 
 
+
+
+https://user-images.githubusercontent.com/129844304/236748969-98cfd636-afe0-4f7d-b0b4-875054e85093.mp4
+
