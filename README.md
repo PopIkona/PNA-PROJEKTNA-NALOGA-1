@@ -17,6 +17,8 @@ Imamo 3 tipke A, B in C. Krmiljenje naj ugotavlja, katera tipka je bila pritisnj
 ## VIDEOPOSNETEK DELOVANJA
 https://user-images.githubusercontent.com/129844304/236749556-155aabbc-353b-48db-b48b-5c58265667c3.mp4
 
+https://user-images.githubusercontent.com/129844304/236749657-39f175a5-5efd-43ec-a8ec-0c02a565e6f6.mp4
+
 ## KOMENTAR
 Vezje sva sestavila, da deluje, kot bi potrebovalo. Reset tipko sva povezala kar na RESET pin arduina in se tako izognila odvečni programski kodi.Imela sva težave z lcd-jem, vendar sva jih odpravila. Mislila sva da na lcd-ju imava že povezan upor, vendar ga nisva imela, zato je bila svetlost lcd-ja slabša. Povezala sva GND na LED2 pin preko upora in zaslon je bil svetlejši. Morala sva dodati tudi potenciometer, da lahko spreminjava svetlost. Z najinim projektom sva zelo zadovoljna. 
 
